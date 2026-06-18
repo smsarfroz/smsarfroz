@@ -1,24 +1,23 @@
 # 👋 Hi, I'm Sarfroz
 
-<h3 align="center">CSE graduate from BIT, Mesra 💻 || Competitive Programmer 🏃 || Full Stack Web Developer 👨‍💻 || Linux and FOSS Enthusiast 🐧 </h3>
+<h3 align="center">CSE Graduate from BIT, Mesra || Full Stack Web Developer || Competitive Programmer || Linux and FOSS Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smsarfroz&label=Profile%20views&color=0e75b6&style=flat" alt="blastoise" /> </p>
 
 # Connect with me 🤝
 
 <p align="left">
+<a href="mailto:ssarfroz@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sarfrozsheikh" /></a>
 <a href="https://linkedin.com/in/sarfroz-sheikh" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sarfrozsheikh" /></a>
 <a href="https://instagram.com/_sarfroz_/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sarfrozsheikh" /></a>
 <a href="https://discord.gg/ducklett7" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="ducklett7" /></a>
 </p>
 
-## 💻 Recent Graduate | Fullstack Developer
-
 Hey there! I'm a **PERN stack developer** with a passion for building complete web applications from the ground up. I graduated from **BIT Mesra in 2024**, and since then, I've been honing my skills through the open-source **Odin Project** curriculum. What excites me most is the challenge of connecting all the pieces—frontend, backend, and everything in between—into a seamless, working whole. I'm a patient problem-solver with a keen eye for detail, and I'm eager to bring my dedication and skills to a professional team.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -32,14 +31,14 @@ Hey there! I'm a **PERN stack developer** with a passion for building complete w
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Competitive Programming
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
-
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### Competitive Programming
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
 
 ---
 
@@ -83,21 +82,8 @@ My personal portfolio site showcasing my projects and skills with a clean, respo
 
 ---
 
-## 📫 Let's Connect
-
 I'm currently looking for **junior fullstack developer** opportunities where I can contribute my skills, learn from experienced developers, and grow professionally. If you're hiring or just want to chat about tech, feel free to reach out!
 
-📧 **Email:** ssarfroz@email.com  
-🔗 **GitHub:** [github.com/smsarfroz](https://github.com/smsarfroz)  
-🔗 **LinkedIn:** [linkedin.com/in/sarfroz](https://www.linkedin.com/in/sarfroz-sheikh/)
-
 ---
 
-> *"Dedication and patience until all the pieces match up and work together."*
-
----
-
-**Fun Fact:** When I'm not coding, I love spending time in nature and hanging out with my cats! 🐱🌿
-
----
 
