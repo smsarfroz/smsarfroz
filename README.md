@@ -48,8 +48,8 @@ Hey there! I'm a **PERN stack developer** with a passion for building complete w
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarfrozdev&show_icons=true&theme=radical" alt="Sarfroz's GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfrozdev&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=smsarfroz&show_icons=true&theme=radical" alt="Sarfroz's GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsarfroz&layout=compact&theme=radical" alt="Top Languages" height="170"/>
 </div>
 
 ---
