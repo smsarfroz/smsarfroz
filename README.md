@@ -1,8 +1,16 @@
 # 👋 Hi, I'm Sarfroz
 
-[![Email](https://img.shields.io/badge/Email-ssarfroz@email.com-red?style=flat-square&logo=gmail)](mailto:ssarfroz@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-smsarfroz-black?style=flat-square&logo=github)](https://github.com/smsarfroz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sarfroz-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sarfroz-sheikh/)
+<h3 align="center">CSE graduate from BIT, Mesra 💻 || Competitive Programmer 🏃 || Full Stack Web Developer 👨‍💻 || Linux and FOSS Enthusiast 🐧 </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smsarfroz&label=Profile%20views&color=0e75b6&style=flat" alt="blastoise" /> </p>
+
+# Connect with me 🤝
+
+<p align="left">
+<a href="https://linkedin.com/in/sarfroz-sheikh" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sarfrozsheikh" /></a>
+<a href="https://instagram.com/_sarfroz_/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sarfrozsheikh" /></a>
+<a href="https://discord.gg/ducklett7" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="ducklett7" /></a>
+</p>
 
 ## 💻 Recent Graduate | Fullstack Developer
 
@@ -38,31 +46,39 @@ Hey there! I'm a **PERN stack developer** with a passion for building complete w
 ## 🔍 What I'm Up To
 
 - 🌱 Deepening my fullstack skills through personal projects and open-source learning
-- 🔭 Building and refining web applications using the PERN stack
-- 💪 Sharpening my algorithmic thinking through regular Codeforces practice
 - 📚 Continuously exploring modern web development technologies
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 🎯 Actively seeking **junior software developer** opportunities
 
 ---
 
-## 📊 GitHub Stats
+# My Stats 📈
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smsarfroz&show_icons=true&theme=radical" alt="Sarfroz's GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsarfroz&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=smsarfroz&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+             <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsarfroz&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+  </tr> 
+</table>
+
+# Profile Overview 🙂
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smsarfroz&theme=monokai"  display=block width=100% height=auto  alt="1" >
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🔗 [E-Commerce Platform]
-A full-featured online store with user authentication, product management, shopping cart, and payment integration built with React, Node.js, Express, and PostgreSQL.
+#### [SarfrozWorld](https://sarfrozworld-ms.vercel.app/)
 
-### 🔗 [Task Management App]
-A collaborative project management tool with real-time updates, team workspaces, and task tracking using the PERN stack with WebSocket integration.
+A full-featured social media platform where you can connect, share content, and interact with the community. Built with React 19, Express, PostgreSQL, and Supabase.
 
-### 🔗 [Portfolio Website]
+#### [Where's Waldo](https://where-is-waldo-one.vercel.app/)
+
+A full-stack photo tagging game where players search for hidden characters in detailed illustrations. Built with React 19, Express, PostgreSQL, and Prisma ORM.
+
+#### [Portfolio Website](https://where-is-waldo-one.vercel.app/)
+
 My personal portfolio site showcasing my projects and skills with a clean, responsive design built from scratch with custom CSS.
 
 ---
