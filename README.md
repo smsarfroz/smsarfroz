@@ -2,7 +2,7 @@
 
 <h3 align="center">CSE Graduate from BIT, Mesra || Full Stack Web Developer || Competitive Programmer || Linux and FOSS Enthusiast </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smsarfroz&label=Profile%20views&color=0e75b6&style=flat" alt="blastoise" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smsarfroz&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" /> </p>
 
 # Connect with me 🤝
 
@@ -58,6 +58,7 @@ Hey there! I'm a **PERN stack developer** with a passion for building complete w
     <td><img src="https://github-readme-stats.vercel.app/api?username=smsarfroz&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
              <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsarfroz&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
   </tr> 
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smsarfroz&theme=algolia" alt="smsarfroz" /></p>
 </table>
 
 # Profile Overview 🙂
