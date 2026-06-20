@@ -13,7 +13,7 @@
 <a href="https://discord.gg/ducklett7" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="ducklett7" /></a>
 </p>
 
-Hey there! I'm a **PERN stack developer** with a passion for building complete web applications from the ground up. I graduated from **BIT Mesra in 2024**, and since then, I've been honing my skills through the open-source **Odin Project** curriculum. What excites me most is the challenge of connecting all the pieces—frontend, backend, and everything in between—into a seamless, working whole. I'm a patient problem-solver with a keen eye for detail, and I'm eager to bring my dedication and skills to a professional team.
+Hey there! I'm a Full-stack developer (PostgresSQL, MongoDB, React.js, Express.js, Node.js, Prisma ORM, SQL) and BIT Mesra '24 CS grad. I know C++ and a bit of Java too. I spent the last year building projects through open source curriculum TOP (The Odin  Project) and pushed my logic skills to Codeforces Specialist level. I thrive on complex problems and building creative solutions.
 
 ---
 
