@@ -46,7 +46,7 @@ Hey there! I'm a Full-stack developer (PostgresSQL, MongoDB, React.js, Express.j
 
 - 🌱 Deepening my fullstack skills through personal projects and open-source learning
 - 📚 Continuously exploring modern web development technologies
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 💞️ Collaborate on Open Source Projects
 - 🎯 Actively seeking **junior software developer** opportunities
 
 ---
@@ -77,13 +77,15 @@ A full-featured social media platform where you can connect, share content, and 
 
 A full-stack photo tagging game where players search for hidden characters in detailed illustrations. Built with React 19, Express, PostgreSQL, and Prisma ORM.
 
-#### [Portfolio Website](https://where-is-waldo-one.vercel.app/)
+#### [Portfolio Website](https://sarfroz.vercel.app/)
 
 My personal portfolio site showcasing my projects and skills with a clean, responsive design built from scratch with custom CSS.
 
 ---
 
-I'm currently looking for **junior fullstack developer** opportunities where I can contribute my skills, learn from experienced developers, and grow professionally. If you're hiring or just want to chat about tech, feel free to reach out!
+### 📫 Let's Connect
+
+I'm currently seeking junior fullstack developer opportunities where I can contribute my skills and continue to grow. Feel free to reach out via  [email](mailto:ssarfroz@gmail.com)!
 
 ---
 
